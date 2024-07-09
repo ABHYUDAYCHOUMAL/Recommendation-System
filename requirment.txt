@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+os
+ast
+sklearn
+sklearn.metrics.pairwise
+pickle
+scikit-learn
